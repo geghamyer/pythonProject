@@ -1,0 +1,5 @@
+{
+  "endpoint": "https://jsonplaceholder.typicode.com/posts",
+  "log_file": "out.log",
+  "input_file": "data.txt"
+}
