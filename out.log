@@ -1,0 +1,50 @@
+2023-12-16 05:50:52,135 - ERROR - Error - Invalid line format: # Sample data file
+
+2023-12-16 05:50:52,135 - INFO - INFO - Connected to https://jsonplaceholder.typicode.com/posts
+2023-12-16 05:50:53,311 - INFO - INFO - Request successfully processed
+2023-12-16 05:50:53,311 - INFO - INFO - Connected to https://jsonplaceholder.typicode.com/posts
+2023-12-16 05:50:53,926 - INFO - INFO - Request successfully processed
+2023-12-16 05:50:53,926 - INFO - INFO - Connected to https://jsonplaceholder.typicode.com/posts
+2023-12-16 05:50:54,844 - INFO - INFO - Request successfully processed
+2023-12-16 05:50:54,844 - INFO - INFO - Connected to https://jsonplaceholder.typicode.com/posts
+2023-12-16 05:50:55,769 - INFO - INFO - Request successfully processed
+2023-12-16 05:51:03,933 - ERROR - Error - Invalid line format: # Sample data file
+
+2023-12-16 05:51:03,933 - INFO - INFO - Connected to https://jsonplaceholder.typicode.com/posts
+2023-12-16 05:51:04,407 - INFO - INFO - Request successfully processed
+2023-12-16 05:51:04,407 - INFO - INFO - Connected to https://jsonplaceholder.typicode.com/posts
+2023-12-16 05:51:04,959 - INFO - INFO - Request successfully processed
+2023-12-16 05:51:04,959 - INFO - INFO - Connected to https://jsonplaceholder.typicode.com/posts
+2023-12-16 05:51:05,737 - INFO - INFO - Request successfully processed
+2023-12-16 05:51:05,738 - INFO - INFO - Connected to https://jsonplaceholder.typicode.com/posts
+2023-12-16 05:51:06,227 - INFO - INFO - Request successfully processed
+2023-12-16 05:51:28,015 - ERROR - Error - Invalid line format: # Sample data file
+
+2023-12-16 05:51:28,015 - INFO - INFO - Connected to https://jsonplaceholder.typicode.com/posts
+2023-12-16 05:51:28,643 - INFO - INFO - Request successfully processed
+2023-12-16 05:51:28,643 - INFO - INFO - Connected to https://jsonplaceholder.typicode.com/posts
+2023-12-16 05:51:29,152 - INFO - INFO - Request successfully processed
+2023-12-16 05:51:29,152 - INFO - INFO - Connected to https://jsonplaceholder.typicode.com/posts
+2023-12-16 05:51:29,921 - INFO - INFO - Request successfully processed
+2023-12-16 05:51:29,922 - INFO - INFO - Connected to https://jsonplaceholder.typicode.com/posts
+2023-12-16 05:51:30,486 - INFO - INFO - Request successfully processed
+2023-12-16 05:56:22,858 - ERROR - Error - Invalid line format: # Sample data file
+
+2023-12-16 05:56:22,858 - INFO - INFO - Connected to https://jsonplaceholder.typicode.com/posts
+2023-12-16 05:56:23,868 - INFO - INFO - Request successfully processed
+2023-12-16 05:56:23,869 - INFO - INFO - Connected to https://jsonplaceholder.typicode.com/posts
+2023-12-16 05:56:24,788 - INFO - INFO - Request successfully processed
+2023-12-16 05:56:24,788 - INFO - INFO - Connected to https://jsonplaceholder.typicode.com/posts
+2023-12-16 05:56:25,709 - INFO - INFO - Request successfully processed
+2023-12-16 05:56:25,710 - INFO - INFO - Connected to https://jsonplaceholder.typicode.com/posts
+2023-12-16 05:56:26,630 - INFO - INFO - Request successfully processed
+2023-12-16 06:34:36,152 - ERROR - Error - Invalid line format: # Sample data file
+
+2023-12-16 06:34:36,153 - INFO - INFO - Connected to https://jsonplaceholder.typicode.com/posts
+2023-12-16 06:34:37,228 - INFO - INFO - Request successfully processed
+2023-12-16 06:34:37,228 - INFO - INFO - Connected to https://jsonplaceholder.typicode.com/posts
+2023-12-16 06:34:38,204 - INFO - INFO - Request successfully processed
+2023-12-16 06:34:38,204 - INFO - INFO - Connected to https://jsonplaceholder.typicode.com/posts
+2023-12-16 06:34:39,021 - INFO - INFO - Request successfully processed
+2023-12-16 06:34:39,022 - INFO - INFO - Connected to https://jsonplaceholder.typicode.com/posts
+2023-12-16 06:34:39,559 - INFO - INFO - Request successfully processed

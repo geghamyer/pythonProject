@@ -1,0 +1,4 @@
+# Sample data file
+101 : Title 1    : Body text for post 1    # Optional comment 1
+102 : Title 2    : Bodzy text for post 2    # Optional comment 2
+103 : Title 3    : Body text for post 3    # Optional comment 3
